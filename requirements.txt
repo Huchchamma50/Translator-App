@@ -1,0 +1,8 @@
+streamlit==1.46.1
+protobuf==4.25.3
+deep-translator
+langdetect
+PyPDF2
+pandas
+matplotlib
+gTTS
